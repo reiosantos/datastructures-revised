@@ -1,0 +1,389 @@
+body {
+   background-image: url("background/restaurant_icons.png");
+   font-family: "liberation serif", serif;
+	line-height: 1.4em;
+	color: darkblue;
+	margin: 0px;
+	text-align: center;
+
+}
+nav{
+	font-size: 14px;
+}
+div{
+	overflow: hidden;
+	border-radius: 5px;
+}
+div.d51, div.d512{
+	overflow: auto;
+}
+th{
+	background-color: lightblue;
+}
+.d1{
+	margin: auto;
+	
+	width: 990px;
+	height: 160px;
+}
+.d11{
+	width: 990px;
+	height: 120px;
+	background-color: #DCDCDC;
+  background: -webkit-radial-gradient(yellow, white); /* Safari 5.1 to 6.0 */
+  background: -o-radial-gradient(yellow, white); /* For Opera 11.6 to 12.0 */
+  background: -moz-radial-gradient(yellow, white); /* For Firefox 3.6 to 15 */
+  background: radial-gradient(yellow, white); /* Standard syntax */
+}
+.imagelogo {
+    float:left;
+    padding-top: 20px;
+    padding-left: 40px;
+}
+.datapic{
+	 float:left;
+    padding-top: 10px;
+    padding-left: 5px;
+    margin-right: 5px;
+    width: 670px;
+    height: 400px;
+    border-radius: 20px;
+}
+.bubble1{
+	float: right;
+	height: 75px; 
+	width: 250px;
+}
+.bubble2{
+	margin: auto;
+	height: 250px; 
+	width: 380px;
+}
+.insert1{
+	margin: auto;
+	height: 80px; 
+	width: 250px;
+	float: right;
+}
+.insert2{
+	margin: auto;
+	height: 250px; 
+	width: 380px;
+}
+.select1{
+	margin: auto;
+	height: 150px; 
+	width: 80px;
+	float: right;
+}
+.select2{
+	margin: auto;
+	height: 250px; 
+	width: 350px;
+}
+.merge1{
+	margin: auto;
+	height: 80px; 
+	width: 250px;
+	float: right;
+}
+.merge2{
+	margin: auto;
+	height: 250px; 
+	width: 380px;
+}
+.quick1{
+	margin: auto;
+	height: 150px; 
+	width: 200px;
+	float: right;
+}
+.quick2{
+	margin: auto;
+	height: 250px; 
+	width: 380px;
+}
+.heap1{
+	margin: auto;
+	height: 150px; 
+	width: 200px;
+	float: right;
+}
+.heap2{
+	margin: auto;
+	height: 250px; 
+	width: 380px;
+}
+.binary1{
+	margin: auto;
+	height: 250px; 
+	width: 380px;
+}
+.linear1{
+	margin: auto;
+	height: 200px; 
+	width: 250px;
+	float: right;
+}
+.linear2{
+	margin: auto;
+	height: 250px; 
+	width: 380px;
+}
+.tree1{
+	margin: auto;
+	height: 150px; 
+	width: 200px;
+	float: right;
+	font-size: ;
+}
+.tree2{
+	margin: auto;
+	height: 250px; 
+	width: 380px;
+	font-size: 20%;
+}
+
+.list1{
+	margin: auto;
+	height: 150px; 
+	width: 200px;
+	float: right;
+}
+.list2{
+	margin: auto;
+	height: 250px; 
+	width: 380px;
+}
+.queue1{
+	margin: auto;
+	height: 150px; 
+	width: 200px;
+	float: right;
+}
+.queue2{
+	margin: auto;
+	height: 250px; 
+	width: 380px;
+}
+.stack1{
+	margin: auto;
+	height: 150px; 
+	width: 200px;
+	float: right;
+}
+.stack2{
+	margin: auto;
+	height: 250px; 
+	width: 380px;
+}
+.hash1{
+	margin: auto;
+	height: 150px; 
+	width: 250px;
+	float: right;
+}
+.hash2{
+	margin: auto;
+	height: 250px; 
+	width: 380px;
+}
+
+.d2{
+	margin: auto;
+	width: 990px;
+	height: 640px;
+	background: lightyellow;
+}
+.d3{
+	float: right;
+	width: 250px;
+	border:0px solid #1E90FF;
+	height: 386px;
+	margin-right:10px;
+	 border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px; 
+}
+.myfile{
+	/*padding-top: 2px;*/
+	padding-left: 2px;
+}
+.upload{
+	padding-left: 2px;
+	color: Red;
+}
+.page {
+	margin: 20px auto 20px auto;
+	border: 1px solid blue;
+	background: #FFFF66;
+	width: 990px;
+   height: 100%;
+   margin: auto;
+   border-radius: 20px;
+  }
+ .d4{
+	margin: auto;
+	margin-left: 20px;
+	width:410px;
+	border: 0px solid blue;
+	height: 640px;
+	float: left;
+}
+.d41{
+	margin: auto;
+	margin-top: 20px;
+	width:380px;
+	border: 1px solid lightblue;
+	height: 300px;
+}
+.d42{
+	margin: auto;
+	margin-top: 20px;
+	width:380px;
+	border: 1px solid lightblue;
+	height: 272px;
+}
+
+ .d5{
+	margin: auto;
+	margin-left: 20px;
+	width:510px;
+	border: 0px solid red;
+	height: 640px;
+	float: left;
+}
+.d51{
+	word-wrap: break-word;
+	text-align: center;
+	margin: auto;
+	width:480px;
+	border: 1px solid lightblue;
+	height: 410px;
+	margin-top: 20px;
+}
+.d52{
+	margin: auto;
+	width:480px;
+	height: 180px;
+	margin-top: 20px;
+}
+.d511{
+	margin-left: 5px;
+	width:138px;
+	border: 1px solid lightblue;
+	height: 380px;
+	margin-top: 20px;
+	float: left;
+}
+.d512{
+	margin-left: 5px;
+	width:322px;
+	border: 1px solid lightblue;
+	height: 380px;
+	margin-top: 20px;
+	float: left;
+}
+
+h1{
+	color: blueviolet;
+	text-align: center;
+	margin: auto;
+	padding-top: 50px;
+	padding-right: 40px;
+	font-size: 50px;
+	float: right;
+}
+h3{
+	color: blueviolet;
+	text-align: center;
+	margin: auto;
+	font-size: 20px;
+}
+hr.vertical
+{
+   width: 0px;
+   height: 60%; /* or height in PX */  
+   float: left;
+   margin-left: 20px;
+   border: 0px ridge silver ;
+} 
+.text {
+	 width: 450px;
+	 float: left;
+	 margin: auto;
+	 margin-left: 20px;
+	 padding: 5px;
+	 background-color: #efefef;}
+.text1 {
+	 width: 450px;
+	 float: left;
+	 margin: auto;
+	 margin-left: 20px;
+	 padding: 5px;
+	 background-color: #efefef;}
+.text2 {
+	 width: 340px;
+	 margin: auto;
+	 margin-left: 20px;
+	 padding: 5px;
+	 background-color: #efefef;}
+@media screen and (min-width: 650px){
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #808080;
+}
+#n11 .nav-bar li { display:inline; padding:0 0px; }
+#n11 .nav-bar li a {
+  text-decoration: none;
+  padding-left: 5px;
+  width: 150px;
+  text-transform: uppercase;
+  color: white;
+text-shadow: 1px 1px 1px #ccc;
+}
+li {
+    float: left;
+    border-right: 0px solid #bbb;
+    border-bottom: 0px solid #bbb;
+}
+.li1{
+	border-top: 0px solid #bbb;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 5px 5px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+.n11 li ul {
+  position: absolute;
+  display: none;
+	width: 150px;
+  padding: 5px;
+}
+.n11 li:hover ul {
+    display: block;
+ }
+ .n11 li ul li {
+    display: block;
+  }
+}
+}
+/*footer {
+	font-size: 80%;
+	padding: 7px 0px 0px 400px;
+	text-align: center;
+	}*/
+
